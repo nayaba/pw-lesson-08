@@ -107,3 +107,5 @@ Functions are the workhorses of JavaScript. They keep your code organized and re
 From here, you might explore more about scope (where variables and functions can be seen and used), or dive into higher-order functions (functions that operate on other functions, either by taking them as arguments or by returning them).
 
 Grab another drink, pat yourself on the back, and keep coding! 🎉
+
+[Back to the Wiki](https://github.com/nayaba/pw-wiki)
