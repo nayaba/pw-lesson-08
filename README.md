@@ -1,3 +1,5 @@
+![functions](https://github.com/nayaba/pw-lesson-08/assets/9198401/ee7aea10-234d-46be-846c-3ab97ae97883)
+
 Alrighty, let’s kick back with a cool beverage and chat about one of the most useful parts of JavaScript: functions. Think of functions like your favorite fast-food combo meal — you have a bunch of ingredients that come together to make something delicious. In coding, a function is a set of instructions that performs a task or calculates a value. You can reuse it just like how you can order that same tasty combo meal whenever you're hungry.
 
 ### 1. What's a Function and Why Should I Care?
